@@ -1,0 +1,2819 @@
+{
+    "title": "Japanese",
+    "language": "ja",
+    "type": "main",
+    "groups": {
+        "global": [
+            {
+                "phrase": "Pages",
+                "translate": "ページ一覧",
+                "active": true
+            },
+            {
+                "phrase": "Page Settings",
+                "translate": "ページ設定",
+                "active": true
+            },
+            {
+                "phrase": "Page Title:",
+                "translate": "ページタイトル :",
+                "active": true
+            },
+            {
+                "phrase": "Page Description:",
+                "translate": "ページの説明：",
+                "active": true
+            },
+            {
+                "phrase": "Page URL:",
+                "translate": "ページURL :",
+                "active": true
+            },
+            {
+                "phrase": "Create, Clone, Rename Pages, Edit Meta Tags",
+                "translate": "作成、複製、ページ名の変更、メタタグの編集",
+                "active": true
+            },
+            {
+                "phrase": "Sites",
+                "translate": "サイト一覧",
+                "active": true
+            },
+            {
+                "phrase": "Create, Open, Rename Sites",
+                "translate": "サイトを作成、開く、名前を変更する",
+                "active": true
+            },
+            {
+                "phrase": "Account",
+                "translate": "アカウント",
+                "active": true
+            },
+            {
+                "phrase": "Sign Up / Login to Get Latest Updates and Extensions",
+                "translate": "サインアップ/ログインして最新のアップデートと拡張機能を入手する",
+                "active": true
+            },
+            {
+                "phrase": "Reset password",
+                "translate": "パスワードをリセットする",
+                "active": true
+            },
+            {
+                "phrase": "Logout",
+                "translate": "ログアウト",
+                "active": true
+            },
+            {
+                "phrase": "Preview in Browser",
+                "translate": "ブラウザでプレビュー",
+                "active": true
+            },
+            {
+                "phrase": "Publish to Local Drive, FTP",
+                "translate": "ローカルドライブに公開、FTP",
+                "active": true
+            },
+            {
+                "phrase": "Publish",
+                "translate": "公開する",
+                "active": true
+            },
+            {
+                "phrase": "Mobile View",
+                "translate": "モバイルビュー",
+                "active": true
+            },
+            {
+                "phrase": "Tablet View",
+                "translate": "タブレットビュー",
+                "active": true
+            },
+            {
+                "phrase": "Tablet Horizontal View",
+                "translate": "タブレット横ビュー",
+                "active": true
+            },
+            {
+                "phrase": "Desktop View",
+                "translate": "デスクトップビュー",
+                "active": true
+            },
+            {
+                "phrase": "Blocks",
+                "translate": "パーツ一覧",
+                "active": true
+            },
+            {
+                "phrase": "Edit Site Styles",
+                "translate": "サイトスタイルを編集",
+                "active": true
+            },
+            {
+                "phrase": "Add Block to Page",
+                "translate": "ページにパーツを追加する",
+                "active": true
+            }
+        ],
+        "app-addons": [
+            {
+                "phrase": "Not available for your Mobirise version",
+                "translate": "Mobiriseバージョンでは利用できません",
+                "active": true
+            },
+            {
+                "phrase": "Not compatible with your version of Mobirise",
+                "translate": "お使いのバージョンのMobiriseとは互換性がありません",
+                "active": true
+            },
+            {
+                "phrase": "Remove",
+                "translate": "削除",
+                "active": true
+            },
+            {
+                "phrase": "Update",
+                "translate": "アップデート",
+                "active": true
+            },
+            {
+                "phrase": "Coming soon...",
+                "translate": "近日公開...",
+                "active": true
+            },
+            {
+                "phrase": "Soon...",
+                "translate": "まもなく...",
+                "active": true
+            },
+            {
+                "phrase": "Add",
+                "translate": "追加",
+                "active": true
+            },
+            {
+                "phrase": "Buy",
+                "translate": "購入",
+                "active": true
+            },
+            {
+                "phrase": "extension",
+                "translate": "拡張機能",
+                "active": true
+            },
+            {
+                "phrase": "$extension$ is successfuly added",
+                "translate": "$extension$ が正常に追加されました",
+                "active": true
+            },
+            {
+                "phrase": "About",
+                "translate": "約",
+                "active": true
+            },
+            {
+                "phrase": "Buy help",
+                "translate": "購入の際のヘルプ",
+                "active": true
+            },
+            {
+                "phrase": "Redeem code",
+                "translate": "コードを引き換える",
+                "active": true
+            },
+            {
+                "phrase": "Enter code...",
+                "translate": "コードを入力する...",
+                "active": true
+            },
+            {
+                "phrase": "Redeem",
+                "translate": "引き換える",
+                "active": true
+            },
+            {
+                "phrase": "Error add extension",
+                "translate": "エラー : 拡張機能の追加に失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "Code is successfully redeemed!",
+                "translate": "コードは正常に利用されました。",
+                "active": true
+            },
+            {
+                "phrase": "Incorrect code",
+                "translate": "コードが間違っています",
+                "active": true
+            },
+            {
+                "phrase": "Activation error",
+                "translate": "アクティベーションエラー",
+                "active": true
+            },
+            {
+                "phrase": "Select extension package",
+                "translate": "拡張機能パッケージを選択",
+                "active": true
+            },
+            {
+                "phrase": "Mobirise Extension",
+                "translate": "Mobiriseエクステンション",
+                "active": true
+            },
+            {
+                "phrase": "Error add extension package",
+                "translate": "エラー : 拡張機能パッケージの追加に失敗",
+                "active": true
+            },
+            {
+                "phrase": "Themes",
+                "translate": "テーマ",
+                "active": true
+            },
+            {
+                "phrase": "Extensions",
+                "translate": "拡張機能",
+                "active": true
+            },
+            {
+                "phrase": "Import",
+                "translate": "インポート",
+                "active": true
+            },
+            {
+                "phrase": "Note: The server list is not available. Only installed extensions are shown",
+                "translate": "注：サーバリストは利用できません。インストールされている拡張機能だけが表示されます",
+                "active": true
+            },
+            {
+                "phrase": "Get more extensions",
+                "translate": "もっと拡張機能を入手",
+                "active": true
+            },
+            {
+                "phrase": "Try to log out and log back in",
+                "translate": "ログアウトして再度ログインしてください。",
+                "active": true
+            },
+            {
+                "phrase": "Warning",
+                "translate": "警告",
+                "active": true
+            },
+            {
+                "phrase": "During the last run the program failed to load all extensions. To run again, program will temporarily disable them. Please update the extensions you use.",
+                "translate": "前回の実行中に、プログラムはすべての拡張子を読み込めませんでした。再度実行するには、プログラムは一時的にそれらを無効にします。使用している拡張子を更新してください。",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Open \"Extensions list\"",
+                "translate": "\"拡張機能一覧\" を開く",
+                "active": true
+            },
+            {
+                "phrase": "Some installed extensions $ext names$ are not compatible with the current version of the application. Please visit \"Extensions list\" dialog to update it.",
+                "translate": "インストールされている拡張機能のいくつかは、現在のバージョンのアプリケーションと互換性がありません。それを更新するために\"拡張リスト\"ダイアログを訪問してください。",
+                "active": true
+            },
+            {
+                "phrase": "Extension",
+                "translate": "拡張機能",
+                "active": true
+            }
+        ],
+        "app-common": [
+            {
+                "phrase": "This is a critical error, some functions of the program may not work correctly, please send information to the developers.",
+                "translate": "これは致命的なエラーです。プログラムの機能によっては正しく動作しない場合があります。開発者に情報を送ってください。",
+                "active": true
+            },
+            {
+                "phrase": "Critical error",
+                "translate": "クリティカル・エラー",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Send feedback",
+                "translate": "フィードバックを送る",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "More",
+                "translate": "更に",
+                "active": true
+            },
+            {
+                "phrase": "Less",
+                "translate": "もっと少なく",
+                "active": true
+            },
+            {
+                "phrase": "LOADING...",
+                "translate": "ローディング",
+                "active": true
+            }
+        ],
+        "app-component-params": [
+            {
+                "phrase": "Remove",
+                "translate": "削除",
+                "active": true
+            },
+            {
+                "phrase": "Drag Block",
+                "translate": "パーツをドラッグ",
+                "active": true
+            },
+            {
+                "phrase": "Block Parameters",
+                "translate": "パーツパラメーター",
+                "active": true
+            },
+            {
+                "phrase": "Remove Block",
+                "translate": "パーツを削除",
+                "active": true
+            },
+            {
+                "phrase": "Show More",
+                "translate": "さらに表示",
+                "active": true
+            },
+            {
+                "phrase": "Remove Block?",
+                "translate": "パーツを削除しますか?",
+                "active": true
+            },
+            {
+                "phrase": "Type address or insert",
+                "translate": "住所を入力または挿入",
+                "active": true
+            },
+            {
+                "phrase": "google map iframe",
+                "translate": "グーグルマップ",
+                "active": true
+            },
+            {
+                "phrase": "Update",
+                "translate": "更新",
+                "active": true
+            }
+        ],
+        "app-components-list": [
+            {
+                "phrase": "Add Block to Page",
+                "translate": "ページにパーツを追加",
+                "active": true
+            },
+            {
+                "phrase": "Close",
+                "translate": "閉じる",
+                "active": true
+            },
+            {
+                "phrase": "Show All Blocks",
+                "translate": "パーツを全て表示する",
+                "active": true
+            },
+            {
+                "phrase": "Show All",
+                "translate": "全て表示",
+                "active": true
+            },
+            {
+                "phrase": "Theme",
+                "translate": "テーマ",
+                "active": true
+            },
+            {
+                "phrase": "Show Blocks From Theme",
+                "translate": "テーマからパーツを表示",
+                "active": true
+            },
+            {
+                "phrase": "Extensn",
+                "translate": "拡張機能",
+                "active": true
+            },
+            {
+                "phrase": "Show Blocks From Extensions",
+                "translate": "拡張機能のパーツを表示する",
+                "active": true
+            },
+            {
+                "phrase": "Add More",
+                "translate": "更に追加",
+                "active": true
+            },
+            {
+                "phrase": "Extension",
+                "translate": "拡張機能",
+                "active": true
+            },
+            {
+                "phrase": "All",
+                "translate": "全て",
+                "active": true
+            },
+            {
+                "phrase": "Added",
+                "translate": "追加しました",
+                "active": true
+            }
+        ],
+        "app-core": [
+            {
+                "phrase": "Remove Block?",
+                "translate": "パーツを削除しますか?",
+                "active": true
+            }
+        ],
+        "app-fonts": [
+            {
+                "phrase": "Browse Computer",
+                "translate": "PCで閲覧",
+                "active": true
+            },
+            {
+                "phrase": "Google Fonts",
+                "translate": "Googleフォント",
+                "active": true
+            },
+            {
+                "phrase": "Site Fonts",
+                "translate": "サイトフォント",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "Select font",
+                "translate": "フォントを選択",
+                "active": true
+            },
+            {
+                "phrase": "Fonts file",
+                "translate": "フォントファイル",
+                "active": true
+            },
+            {
+                "phrase": "Error saving project settings.",
+                "translate": "エラー : プロジェクト設定の保存に失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "Error saving style.css for $font name$",
+                "translate": "$font name$ のstyle.cssの保存中にエラーが発生しました",
+                "active": true
+            },
+            {
+                "phrase": "The quick brown fox jumps over the lazy dog.",
+                "translate": "速い茶色のキツネは怠惰な犬を飛び越えます。",
+                "active": true
+            },
+            {
+                "phrase": "Download font error!",
+                "translate": "エラー : フォントのダウンロードに失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "This font has been successfully removed.",
+                "translate": "このフォントは正常に削除されました。",
+                "active": true
+            },
+            {
+                "phrase": "Error removal!",
+                "translate": "エラー : 除去",
+                "active": true
+            },
+            {
+                "phrase": "This is the font used in the project!",
+                "translate": "これがプロジェクトで使用されているフォントです。",
+                "active": true
+            },
+            {
+                "phrase": "Error file saving!",
+                "translate": "エラー : ファイルを保存中に失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "More fonts",
+                "translate": "更にフォントを見る",
+                "active": true
+            },
+            {
+                "phrase": "Font removal error!",
+                "translate": "エラー : フォントを削除に失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "Fonts",
+                "translate": "フォント一覧",
+                "active": true
+            },
+            {
+                "phrase": "Search by font name",
+                "translate": "フォント名で検索",
+                "active": true
+            }
+        ],
+        "app-pages": [
+            {
+                "phrase": "Drag Page",
+                "translate": "ページをドラッグ",
+                "active": true
+            },
+            {
+                "phrase": "Clone Page",
+                "translate": "ページを複製",
+                "active": true
+            },
+            {
+                "phrase": "Rename Page, Edit Meta Tags",
+                "translate": "ページ名の変更、メタタグの編集",
+                "active": true
+            },
+            {
+                "phrase": "Remove Page",
+                "translate": "ページの削除",
+                "active": true
+            },
+            {
+                "phrase": "OK",
+                "translate": "OK",
+                "active": true
+            },
+            {
+                "phrase": "Edit Title",
+                "translate": "タイトルを編集",
+                "active": true
+            },
+            {
+                "phrase": "Remove page $page name$?",
+                "translate": "ページ $page name$ を削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "Create New Page",
+                "translate": "新しいページを作成する",
+                "active": true
+            },
+            {
+                "phrase": "Create Page",
+                "translate": "ページを作成",
+                "active": true
+            }
+        ],
+        "app-plugin-click-to-start": [
+            {
+                "phrase": "Click to Start",
+                "translate": "クリックして開始",
+                "active": true
+            }
+        ],
+        "app-plugin-components-list-userblocks": [
+            {
+                "phrase": "Remove Block?",
+                "translate": "パーツを削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "User",
+                "translate": "ユーザー",
+                "active": true
+            },
+            {
+                "phrase": "Show Blocks Saved By User",
+                "translate": "ユーザーが保存したパーツを表示",
+                "active": true
+            },
+            {
+                "phrase": "Save To User Blocks",
+                "translate": "ユーザーパーツに保存",
+                "active": true
+            }
+        ],
+        "app-plugin-favicon": [
+            {
+                "phrase": "Favicon",
+                "translate": "ファビコン",
+                "active": true
+            },
+            {
+                "phrase": "Use menu logo",
+                "translate": "メニューロゴを使用",
+                "active": true
+            },
+            {
+                "phrase": "Change favicon",
+                "translate": "ファビコンを変更",
+                "active": true
+            },
+            {
+                "phrase": "Select Image",
+                "translate": "画像を選択",
+                "active": true
+            }
+        ],
+        "app-plugin-github": [
+            {
+                "phrase": "GitHub UserName",
+                "translate": "GitHubのユーザー名",
+                "active": true
+            },
+            {
+                "phrase": "GitHub Password or Token",
+                "translate": "GitHubのパスワードまたはトークン",
+                "active": true
+            },
+            {
+                "phrase": "You can create GitHub Account %here%",
+                "translate": "%here% でGitHubアカウントを作成することができます",
+                "active": true
+            },
+            {
+                "phrase": "Enter your credentials",
+                "translate": "資格情報を入力してください",
+                "active": true
+            },
+            {
+                "phrase": "ОК",
+                "translate": "ОК",
+                "active": true
+            },
+            {
+                "phrase": "Success",
+                "translate": "成功",
+                "active": true
+            },
+            {
+                "phrase": "The site is successfully uploaded to GitHub Pages. Usually GitHub can take up to 5 minutes to show up the changes. Do you want to open the site?",
+                "translate": "このサイトはGitHub Pagesにアップロードされました。通常GitHubが変更を反映するのに最大5分かかることがあります。サイトを開きますか？",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Open",
+                "translate": "開く",
+                "active": true
+            },
+            {
+                "phrase": "Error",
+                "translate": "エラー",
+                "active": true
+            },
+            {
+                "phrase": "error(s) occured while uploading files to GitHub.com. Do you want to open $link$ anyway?",
+                "translate": "GitHub.comにファイルをアップロード中にエラーが発生しました。とにかく$ link $を開きますか？",
+                "active": true
+            },
+            {
+                "phrase": "Check your credentials and internet connection",
+                "translate": "資格情報とインターネット接続を確認してください",
+                "active": true
+            },
+            {
+                "phrase": "Error while connecting to Github.",
+                "translate": "Githubへの接続中にエラーが発生しました。",
+                "active": true
+            },
+            {
+                "phrase": "Close",
+                "translate": "閉じる",
+                "active": true
+            },
+            {
+                "phrase": "GitHub Pages",
+                "translate": "GitHubページ",
+                "active": true
+            },
+            {
+                "phrase": "Account",
+                "translate": "アカウント",
+                "active": true
+            },
+            {
+                "phrase": "folder",
+                "translate": "フォルダー",
+                "active": true
+            },
+            {
+                "phrase": "Upload",
+                "translate": "アップロードする",
+                "active": true
+            }
+        ],
+        "app-plugin-help": [
+            {
+                "phrase": "Please sign up/login to contact us or get the access to public forums",
+                "translate": "サインアップ/ログインして私達に連絡するか、または公開フォーラムにアクセスしてください。",
+                "active": true
+            },
+            {
+                "phrase": "Help",
+                "translate": "ヘルプ",
+                "active": true
+            },
+            {
+                "phrase": "Please visit %Help Center% or %Forums% before contacting us.",
+                "translate": "連絡する前に、 %Help Center% または %Forums% にアクセスしてください。",
+                "active": true
+            },
+            {
+                "phrase": "Visit Help Center",
+                "translate": "ヘルプセンターにアクセス",
+                "active": true
+            },
+            {
+                "phrase": "Visit Forums",
+                "translate": "フォーラムにアクセスする",
+                "active": true
+            },
+            {
+                "phrase": "Send us a message",
+                "translate": "私達にメッセージを送ります",
+                "active": true
+            },
+            {
+                "phrase": "From",
+                "translate": "から",
+                "active": true
+            },
+            {
+                "phrase": "Message",
+                "translate": "メッセージ",
+                "active": true
+            },
+            {
+                "phrase": "Please explain in details what happened and what steps we can take to reproduce the problem.",
+                "translate": "何が起こったのか、そして問題を再現するためにどのようなステップを踏むことができるのか詳細に説明してください。",
+                "active": true
+            },
+            {
+                "phrase": "Send",
+                "translate": "送る",
+                "active": true
+            },
+            {
+                "phrase": "Your message is too short. Please add more details",
+                "translate": "あなたのメッセージは短すぎます。詳細を追加してください",
+                "active": true
+            },
+            {
+                "phrase": "Your message has been successfully sent!",
+                "translate": "あなたのメッセージは正常に送信されました。",
+                "active": true
+            },
+            {
+                "phrase": "We will reply to your email $userEmail$ shortly.",
+                "translate": "まもなくあなたのメールアドレス $userEmail$ に返信します。",
+                "active": true
+            },
+            {
+                "phrase": "SEND",
+                "translate": "送信する",
+                "active": true
+            }
+        ],
+        "app-plugin-history": [
+            {
+                "phrase": "Site Settings",
+                "translate": "サイト設定",
+                "active": true
+            },
+            {
+                "phrase": "Image",
+                "translate": "画像",
+                "active": true
+            },
+            {
+                "phrase": "Video",
+                "translate": "ビデオ",
+                "active": true
+            },
+            {
+                "phrase": "Remove Page",
+                "translate": "ページを削除",
+                "active": true
+            },
+            {
+                "phrase": "Add Block",
+                "translate": "パーツを追加",
+                "active": true
+            },
+            {
+                "phrase": "Remove Block",
+                "translate": "パーツを削除",
+                "active": true
+            },
+            {
+                "phrase": "Block Position",
+                "translate": "パーツの位置",
+                "active": true
+            },
+            {
+                "phrase": "Block Params",
+                "translate": "パーツパラメータ",
+                "active": true
+            },
+            {
+                "phrase": "Add Page",
+                "translate": "ページの追加",
+                "active": true
+            },
+            {
+                "phrase": "Page Settings",
+                "translate": "ページ設定",
+                "active": true
+            },
+            {
+                "phrase": "Block to HTML",
+                "translate": "HTMLにブロック",
+                "active": true
+            },
+            {
+                "phrase": "Code Editor",
+                "translate": "コードエディタ",
+                "active": true
+            },
+            {
+                "phrase": "Text Type",
+                "translate": "テキストタイプ",
+                "active": true
+            },
+            {
+                "phrase": "Icon",
+                "translate": "アイコン",
+                "active": true
+            },
+            {
+                "phrase": "Load Site",
+                "translate": "サイトを読み込む",
+                "active": true
+            },
+            {
+                "phrase": "Undo",
+                "translate": "元に戻す",
+                "active": true
+            },
+            {
+                "phrase": "Redo",
+                "translate": "やり直し",
+                "active": true
+            }
+        ],
+        "app-plugin-iconfont": [
+            {
+                "phrase": "Icon Color",
+                "translate": "アイコンの色",
+                "active": true
+            },
+            {
+                "phrase": "Icon Size",
+                "translate": "アイコンサイズ",
+                "active": true
+            },
+            {
+                "phrase": "Auto",
+                "translate": "自動",
+                "active": true
+            },
+            {
+                "phrase": "Link Icon to",
+                "translate": "リンクアイコン",
+                "active": true
+            },
+            {
+                "phrase": "Edit Link",
+                "translate": "リンクを編集",
+                "active": true
+            },
+            {
+                "phrase": "Search...",
+                "translate": "サーチ...",
+                "active": true
+            },
+            {
+                "phrase": "Select icons",
+                "translate": "アイコンを選択",
+                "active": true
+            },
+            {
+                "phrase": "Insert Icon",
+                "translate": "アイコンを挿入",
+                "active": true
+            },
+            {
+                "phrase": "Remove Icon",
+                "translate": "アイコンを削除",
+                "active": true
+            }
+        ],
+        "app-plugin-image-editor-site-library": [
+            {
+                "phrase": "This image is used on the site and can't be removed from Site Library.",
+                "translate": "この画像はサイトで使用されており、サイトライブラリから削除することはできません。",
+                "active": true
+            }
+        ],
+        "app-plugin-image-editor-unsplash": [
+            {
+                "phrase": "Search by keyword",
+                "translate": "キーワードで探す",
+                "active": true
+            },
+            {
+                "phrase": "Search",
+                "translate": "サーチ",
+                "active": true
+            },
+            {
+                "phrase": "Online image library is not available",
+                "translate": "オンライン画像ライブラリは利用できません",
+                "active": true
+            },
+            {
+                "phrase": "No images found!",
+                "translate": "画像が見つかりません！",
+                "active": true
+            },
+            {
+                "phrase": "Please try another keyword",
+                "translate": "別のキーワードを試してください",
+                "active": true
+            },
+            {
+                "phrase": "e.g.",
+                "translate": "例えば",
+                "active": true
+            }
+        ],
+        "app-plugin-link-editor": [
+            {
+                "phrase": "Add File",
+                "translate": "ファイルを追加",
+                "active": true
+            },
+            {
+                "phrase": "Documents",
+                "translate": "書類",
+                "active": true
+            },
+            {
+                "phrase": "This document is already added.",
+                "translate": "この文書は既に追加されています。",
+                "active": true
+            },
+            {
+                "phrase": "Link to",
+                "translate": "リンク先",
+                "active": true
+            },
+            {
+                "phrase": "Page",
+                "translate": "ページ",
+                "active": true
+            },
+            {
+                "phrase": "Web Address",
+                "translate": "ウェブアドレス",
+                "active": true
+            },
+            {
+                "phrase": "Email",
+                "translate": "Eメール",
+                "active": true
+            },
+            {
+                "phrase": "Phone",
+                "translate": "電話",
+                "active": true
+            },
+            {
+                "phrase": "File",
+                "translate": "ファイル",
+                "active": true
+            },
+            {
+                "phrase": "Site Pages",
+                "translate": "サイトページ",
+                "active": true
+            },
+            {
+                "phrase": "Block on Page",
+                "translate": "ページでブロック",
+                "active": true
+            },
+            {
+                "phrase": "Open in new window",
+                "translate": "新しいウィンドウで開きます",
+                "active": true
+            },
+            {
+                "phrase": "Browse Computer",
+                "translate": "コンピュータをブラウズ",
+                "active": true
+            },
+            {
+                "phrase": "Choose pdf, doc, docx, ppt, pptx, xls, xlsx, odp or odt file",
+                "translate": "pdf、doc、docx、ppt、pptx、xls、xlsx、odpまたはodtファイルを選択してください",
+                "active": true
+            },
+            {
+                "phrase": "Insert Link",
+                "translate": "リンクを挿入",
+                "active": true
+            },
+            {
+                "phrase": "Remove Link",
+                "translate": "リンクを削除",
+                "active": true
+            },
+            {
+                "phrase": "Block on $page title$ Page",
+                "translate": "$page title$ でブロックする",
+                "active": true
+            },
+            {
+                "phrase": "Block on $current page$ Page",
+                "translate": "$current page$ でブロックする",
+                "active": true
+            },
+            {
+                "phrase": "Custom URL",
+                "translate": "カスタムURL",
+                "active": true
+            },
+            {
+                "phrase": "e.g.",
+                "translate": "例えば",
+                "active": true
+            }
+        ],
+        "app-plugin-media-editor": [
+            {
+                "phrase": "Media Image",
+                "translate": "メディア画像",
+                "active": true
+            },
+            {
+                "phrase": "Browse Computer",
+                "translate": "コンピュータでブラウズ",
+                "active": true
+            },
+            {
+                "phrase": "Free Online Library",
+                "translate": "無料のオンライン図書館",
+                "active": true
+            },
+            {
+                "phrase": "Site Library",
+                "translate": "サイトライブラリー",
+                "active": true
+            },
+            {
+                "phrase": "Selected Image",
+                "translate": "選択された画像",
+                "active": true
+            },
+            {
+                "phrase": "Link Image to",
+                "translate": "画像をにリンク",
+                "active": true
+            },
+            {
+                "phrase": "Edit Link",
+                "translate": "リンクを編集",
+                "active": true
+            },
+            {
+                "phrase": "Edit alt and title",
+                "translate": "代替タイトルを編集",
+                "active": true
+            },
+            {
+                "phrase": "Alt",
+                "translate": "代替",
+                "active": true
+            },
+            {
+                "phrase": "Title",
+                "translate": "タイトル",
+                "active": true
+            },
+            {
+                "phrase": "Select Image",
+                "translate": "画像を選択",
+                "active": true
+            },
+            {
+                "phrase": "Crop Image",
+                "translate": "クロップ画像",
+                "active": true
+            },
+            {
+                "phrase": "More",
+                "translate": "更に",
+                "active": true
+            },
+            {
+                "phrase": "Zoom In",
+                "translate": "ズームイン",
+                "active": true
+            },
+            {
+                "phrase": "Zoom Out",
+                "translate": "ズームアウト",
+                "active": true
+            },
+            {
+                "phrase": "Flip Horizontal",
+                "translate": "左右反転",
+                "active": true
+            },
+            {
+                "phrase": "Flip Vertical",
+                "translate": "上下反転",
+                "active": true
+            },
+            {
+                "phrase": "Aspect Ratio",
+                "translate": "アスペクト比",
+                "active": true
+            },
+            {
+                "phrase": "Aspect Ratio: Free",
+                "translate": "アスペクト比：フリー",
+                "active": true
+            },
+            {
+                "phrase": "Free",
+                "translate": "フリー",
+                "active": true
+            },
+            {
+                "phrase": "Media Video",
+                "translate": "メディアビデオ",
+                "active": true
+            },
+            {
+                "phrase": "Video URL",
+                "translate": "動画のURL",
+                "active": true
+            },
+            {
+                "phrase": "Supported Youtube and Vimeo URL's",
+                "translate": "サポートされているYoutubeとVimeoのURL",
+                "active": true
+            },
+            {
+                "phrase": "Autoplay",
+                "translate": "自動再生",
+                "active": true
+            },
+            {
+                "phrase": "Loop",
+                "translate": "ループ",
+                "active": true
+            },
+            {
+                "phrase": "From Phone",
+                "translate": "電話から",
+                "active": true
+            },
+            {
+                "phrase": "Library",
+                "translate": "ライブラリー",
+                "active": true
+            }
+        ],
+        "app-plugin-progress": [
+            {
+                "phrase": "Progress",
+                "translate": "進捗",
+                "active": true
+            },
+            {
+                "phrase": "Exporting...",
+                "translate": "エクスポートしています...",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Do you want to stop?",
+                "translate": "停止しますか？",
+                "active": true
+            },
+            {
+                "phrase": "Stop",
+                "translate": "やめる",
+                "active": true
+            },
+            {
+                "phrase": "Continue",
+                "translate": "持続する",
+                "active": true
+            },
+            {
+                "phrase": "Unknown error",
+                "translate": "未知のエラー",
+                "active": true
+            },
+            {
+                "phrase": "Ignore Errors",
+                "translate": "エラーを無視",
+                "active": true
+            },
+            {
+                "phrase": "Do you want to stop the publication?",
+                "translate": "公開を中止しますか？",
+                "active": true
+            }
+        ],
+        "app-plugin-projects-history": [
+            {
+                "phrase": "Unable to revert to history $history date$",
+                "translate": "$history date$ に戻すことができません",
+                "active": true
+            },
+            {
+                "phrase": "Show Project History",
+                "translate": "プロジェクト履歴を表示",
+                "active": true
+            },
+            {
+                "phrase": "History",
+                "translate": "歴史",
+                "active": true
+            },
+            {
+                "phrase": "Do you really want to remove the site version from $selected date$?",
+                "translate": "本当に $selected date$ からサイトのバージョンを削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "Select saved version of project",
+                "translate": "プロジェクトの保存バージョンを選択",
+                "active": true
+            },
+            {
+                "phrase": "Revert back",
+                "translate": "戻す",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Do you really want to revert back to the site version from $selected date$? The current site will not be lost, it will be saved under $current date$.",
+                "translate": "本当に $selected date$ からサイトのバージョンに戻したいですか？現在のサイトは失われることはなく、 $current date$ の下に保存されます。",
+                "active": true
+            },
+            {
+                "phrase": "Remove Selected Version",
+                "translate": "選択したバージョンを削除",
+                "active": true
+            },
+            {
+                "phrase": "Remove",
+                "translate": "削除する",
+                "active": true
+            },
+            {
+                "phrase": "Revert Back To Selected Version",
+                "translate": "選択したバージョンに戻す",
+                "active": true
+            },
+            {
+                "phrase": "Project history is empty",
+                "translate": "プロジェクト履歴は空です",
+                "active": true
+            },
+            {
+                "phrase": "Error while load from selected history:",
+                "translate": "選択した履歴からロード中にエラーが発生しました。",
+                "active": true
+            }
+        ],
+        "app-plugin-resize-images": [
+            {
+                "phrase": "Resize Images",
+                "translate": "画像のサイズ変更",
+                "active": true
+            }
+        ],
+        "app-plugin-spectrum": [
+            {
+                "phrase": "More",
+                "translate": "もっと",
+                "active": true
+            },
+            {
+                "phrase": "Less",
+                "translate": "もっと少なく",
+                "active": true
+            }
+        ],
+        "app-projects-hash": [
+            {
+                "phrase": "Publish changes only",
+                "translate": "変更のみを公開する",
+                "active": true
+            }
+        ],
+        "app-projects": [
+            {
+                "phrase": "Project file error",
+                "translate": "プロジェクトファイルエラー",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Error to save project file. Close application and run again.",
+                "translate": "プロジェクトファイルの保存中にエラーが発生しました。アプリケーションを閉じて、もう一度実行してください。",
+                "active": true
+            },
+            {
+                "phrase": "Error update recents list.",
+                "translate": "最新リストの更新エラー。",
+                "active": true
+            },
+            {
+                "phrase": "error",
+                "translate": "エラー",
+                "active": true
+            },
+            {
+                "phrase": "Unknown error while publish",
+                "translate": "公開中に不明なエラーが発生しました",
+                "active": true
+            },
+            {
+                "phrase": "Open Mobirise Site",
+                "translate": "Mobiriseサイトを開く",
+                "active": true
+            },
+            {
+                "phrase": "Create New Site",
+                "translate": "新しいサイトを作成する",
+                "active": true
+            },
+            {
+                "phrase": "Open Mobirise site (project.mobirise) not listed here.",
+                "translate": "ここに記載されていないMobiriseサイト（project.mobirise）を開きます。",
+                "active": true
+            },
+            {
+                "phrase": "Import Mobirise Site",
+                "translate": "Mobiriseサイトのインポート",
+                "active": true
+            },
+            {
+                "phrase": "Clone Site",
+                "translate": "クローンサイト",
+                "active": true
+            },
+            {
+                "phrase": "Edit Site Styles",
+                "translate": "サイトスタイルを編集する",
+                "active": true
+            },
+            {
+                "phrase": "Rename, Favicon, Export",
+                "translate": "名前の変更、Favicon、エクスポート",
+                "active": true
+            },
+            {
+                "phrase": "Remove Site",
+                "translate": "サイトを削除",
+                "active": true
+            },
+            {
+                "phrase": "Select Project File",
+                "translate": "プロジェクトファイルを選択",
+                "active": true
+            },
+            {
+                "phrase": "Site Name",
+                "translate": "サイト名",
+                "active": true
+            },
+            {
+                "phrase": "Type the name of your new site",
+                "translate": "新しいサイトの名前を入力してください",
+                "active": true
+            },
+            {
+                "phrase": "Select the Theme for this Site",
+                "translate": "このサイトのテーマを選択",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "More Themes",
+                "translate": "その他のテーマ",
+                "active": true
+            },
+            {
+                "phrase": "Site Settings",
+                "translate": "サイト設定",
+                "active": true
+            },
+            {
+                "phrase": "Site Files",
+                "translate": "サイトファイル",
+                "active": true
+            },
+            {
+                "phrase": "Create a site copy in different location",
+                "translate": "別の場所にサイトコピーを作成する",
+                "active": true
+            },
+            {
+                "phrase": "Export Site",
+                "translate": "輸出サイト",
+                "active": true
+            },
+            {
+                "phrase": "Theme",
+                "translate": "テーマ",
+                "active": true
+            },
+            {
+                "phrase": "Do you want to remove $site name$?",
+                "translate": "$site name$ を削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "Do you want to close the current site and open $site name$?",
+                "translate": "現在のサイトを閉じて $site name$ を開きますか？",
+                "active": true
+            },
+            {
+                "phrase": "%This site% is not available. Do you want to remove it from the list?",
+                "translate": "%This site% は利用できません。リストから削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "No Name",
+                "translate": "ノーネーム",
+                "active": true
+            },
+            {
+                "phrase": "Project file error. Try to restore from history",
+                "translate": "プロジェクトファイルエラー履歴から復元しよう",
+                "active": true
+            },
+            {
+                "phrase": "Unexpected project save error",
+                "translate": "予期しないプロジェクト保存エラー",
+                "active": true
+            },
+            {
+                "phrase": "Unable to save loaded project",
+                "translate": "ロードしたプロジェクトを保存できません",
+                "active": true
+            },
+            {
+                "phrase": "Unexpected project create error",
+                "translate": "予期しないプロジェクト作成エラー",
+                "active": true
+            },
+            {
+                "phrase": "Cloned project is wrong",
+                "translate": "クローンプロジェクトが間違っている",
+                "active": true
+            },
+            {
+                "phrase": "Empty project",
+                "translate": "空のプロジェクト",
+                "active": true
+            },
+            {
+                "phrase": "Create Site",
+                "translate": "サイトを作成",
+                "active": true
+            },
+            {
+                "phrase": "or",
+                "translate": "または",
+                "active": true
+            },
+            {
+                "phrase": "Unable to init project",
+                "translate": "プロジェクトを開始できませんでした",
+                "active": true
+            },
+            {
+                "phrase": "Unable to clone project",
+                "translate": "プロジェクトを複製できませんでした",
+                "active": true
+            }
+        ],
+        "app-publish-dlg": [
+            {
+                "phrase": "Local drive folder",
+                "translate": "ローカルドライブフォルダ",
+                "active": true
+            },
+            {
+                "phrase": "folder",
+                "translate": "フォルダ",
+                "active": true
+            },
+            {
+                "phrase": "Edit",
+                "translate": "編集する",
+                "active": true
+            },
+            {
+                "phrase": "Browse...",
+                "translate": "ブラウズ...",
+                "active": true
+            },
+            {
+                "phrase": "To export the site project, please use %Sites -> Site Settings%",
+                "translate": "サイトプロジェクトをエクスポートするには、 %Sites -> Site Settings% を使用してください。",
+                "active": true
+            },
+            {
+                "phrase": "Publish",
+                "translate": "公開する",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Browse for folder",
+                "translate": "フォルダを参照",
+                "active": true
+            }
+        ],
+        "app-publish-ftp": [
+            {
+                "phrase": "Edit",
+                "translate": "編集する",
+                "active": true
+            },
+            {
+                "phrase": "Add New",
+                "translate": "新しく追加する",
+                "active": true
+            },
+            {
+                "phrase": "Remove",
+                "translate": "削除",
+                "active": true
+            },
+            {
+                "phrase": "FTP",
+                "translate": "FTP",
+                "active": true
+            },
+            {
+                "phrase": "root folder",
+                "translate": "ルートフォルダ",
+                "active": true
+            },
+            {
+                "phrase": "Protocol",
+                "translate": "プロトコル",
+                "active": true
+            },
+            {
+                "phrase": "Host",
+                "translate": "ホスト",
+                "active": true
+            },
+            {
+                "phrase": "Port",
+                "translate": "ポート",
+                "active": true
+            },
+            {
+                "phrase": "Username",
+                "translate": "ユーザー名",
+                "active": true
+            },
+            {
+                "phrase": "Password",
+                "translate": "パスワード",
+                "active": true
+            },
+            {
+                "phrase": "Test FTP Server",
+                "translate": "FTPサーバーをテストする",
+                "active": true
+            },
+            {
+                "phrase": "FTP Site Manager",
+                "translate": "FTPサイトマネージャ",
+                "active": true
+            },
+            {
+                "phrase": "Test connection",
+                "translate": "テスト接続",
+                "active": true
+            },
+            {
+                "phrase": "Successful connection",
+                "translate": "接続に成功",
+                "active": true
+            },
+            {
+                "phrase": "Unable connect to FTP",
+                "translate": "FTPに接続できません",
+                "active": true
+            },
+            {
+                "phrase": "Save",
+                "translate": "保存する",
+                "active": true
+            },
+            {
+                "phrase": "Remove this site?",
+                "translate": "このサイトを削除しますか？",
+                "active": true
+            },
+            {
+                "phrase": "The site published successfully to $ftp location$",
+                "translate": "サイトは $ftp location$ に正常に公開されました",
+                "active": true
+            },
+            {
+                "phrase": "e.g.",
+                "translate": "例えば",
+                "active": true
+            }
+        ],
+        "app-publish": [
+            {
+                "phrase": "Initialization, please wait...",
+                "translate": "初期化中、お待ちください...",
+                "active": true
+            },
+            {
+                "phrase": "Preparing $page name$",
+                "translate": "$page name$ の準備",
+                "active": true
+            },
+            {
+                "phrase": "Internal error while processing page $page name$",
+                "translate": "ページ $page name$ の処理中に内部エラーが発生しました",
+                "active": true
+            },
+            {
+                "phrase": "Your site was successfully exported to the folder $folder name$",
+                "translate": "サイトはフォルダ $folder name$ に正常にエクスポートされました",
+                "active": true
+            },
+            {
+                "phrase": "Unknown error while publish",
+                "translate": "公開中に不明なエラーが発生しました",
+                "active": true
+            }
+        ],
+        "app-settings": [
+            {
+                "phrase": "App Settings",
+                "translate": "アプリ設定",
+                "active": true
+            },
+            {
+                "phrase": "Top Toolbar",
+                "translate": "トップツールバー",
+                "active": true
+            },
+            {
+                "phrase": "Show Page & Site Names",
+                "translate": "ページ名とサイト名を表示",
+                "active": true
+            },
+            {
+                "phrase": "Show All Views",
+                "translate": "すべてのビューを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Redo",
+                "translate": "やり直しを表示",
+                "active": true
+            },
+            {
+                "phrase": "Editor",
+                "translate": "編集者",
+                "active": true
+            },
+            {
+                "phrase": "Show All Block Buttons",
+                "translate": "すべてのブロックボタンを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Site Styles Button",
+                "translate": "サイトスタイルを表示ボタン",
+                "active": true
+            }
+        ],
+        "app-theme-settings": [
+            {
+                "phrase": "Close",
+                "translate": "複製",
+                "active": true
+            },
+            {
+                "phrase": "More",
+                "translate": "更に",
+                "active": true
+            },
+            {
+                "phrase": "Less",
+                "translate": "もっと少なく",
+                "active": true
+            }
+        ],
+        "app-updater": [
+            {
+                "phrase": "New version $version$ is available",
+                "translate": "新しいバージョン $version$ が利用可能です",
+                "active": true
+            },
+            {
+                "phrase": "Download now!",
+                "translate": "ダウンロード中！",
+                "active": true
+            },
+            {
+                "phrase": "Remind later",
+                "translate": "後で思い出させる",
+                "active": true
+            },
+            {
+                "phrase": "News",
+                "translate": "ニュース",
+                "active": true
+            },
+            {
+                "phrase": "Mobirise news is available, please visit $site url$ website for details.",
+                "translate": "動員ニュースがあります。詳細については $site url$ のWebサイトをご覧ください。",
+                "active": true
+            },
+            {
+                "phrase": "Read more...",
+                "translate": "続きを読む...",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "Skip this version",
+                "translate": "このバージョンをスキップ",
+                "active": true
+            }
+        ],
+        "app-user-account": [
+            {
+                "phrase": "Please, Sign Up",
+                "translate": "登録してください",
+                "active": true
+            },
+            {
+                "phrase": "Please sign up / login to get latest updates and extensions",
+                "translate": "最新のアップデートや拡張機能を入手するには、サインアップ/ログインしてください",
+                "active": true
+            },
+            {
+                "phrase": "Your Email",
+                "translate": "あなたのEメール",
+                "active": true
+            },
+            {
+                "phrase": "Sign Up / login",
+                "translate": "サインアップ/ログイン",
+                "active": true
+            },
+            {
+                "phrase": "or",
+                "translate": "または",
+                "active": true
+            },
+            {
+                "phrase": "Login with Google",
+                "translate": "Googleでログイン",
+                "active": true
+            },
+            {
+                "phrase": "Login with Facebook",
+                "translate": "Facebookでログイン",
+                "active": true
+            },
+            {
+                "phrase": "No, I don't need this and don't show me this anymore",
+                "translate": "いいえ、これは必要ありません。もうこれを見せないでください。",
+                "active": true
+            },
+            {
+                "phrase": "Forgot password?",
+                "translate": "パスワードをお忘れですか？",
+                "active": true
+            },
+            {
+                "phrase": "We've sent an email with instructions on how to reset your password to the email address $email$",
+                "translate": "パスワードを電子メールアドレス $email$ にリセットする方法を説明した電子メールを送信しました",
+                "active": true
+            },
+            {
+                "phrase": "Are you sure you want to logout?",
+                "translate": "ログアウトしてよろしいですか？",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "You successfully signed in",
+                "translate": "サインインしました",
+                "active": true
+            },
+            {
+                "phrase": "Your Password",
+                "translate": "あなたのパスワード",
+                "active": true
+            },
+            {
+                "phrase": "Login",
+                "translate": "ログイン",
+                "active": true
+            },
+            {
+                "phrase": "Enter your password",
+                "translate": "パスワードを入力してください",
+                "active": true
+            },
+            {
+                "phrase": "Please enter a valid email address",
+                "translate": "有効なメールアドレスを入力してください",
+                "active": true
+            },
+            {
+                "phrase": "Your account password is sent to your email. If you haven't received the email, please check Spam folder",
+                "translate": "あなたのアカウントパスワードはあなたのEメールに送られます。メールが届いていない場合は、迷惑メールフォルダを確認してください。",
+                "active": true
+            },
+            {
+                "phrase": "You already have the Mobirise account, please login with your password",
+                "translate": "あなたはすでにMobiriseアカウントを持っています、あなたのパスワードでログインしてください",
+                "active": true
+            },
+            {
+                "phrase": "Please sign up / login to load the free theme",
+                "translate": "無料テーマをロードするためにサインアップ/ログインしてください",
+                "active": true
+            },
+            {
+                "phrase": "Your password is sent to $email$",
+                "translate": "あなたのパスワードは $email$ に送信されます。",
+                "active": true
+            },
+            {
+                "phrase": "If you haven't received the email, please check Spam folder.",
+                "translate": "電子メールを受け取っていない場合は、迷惑メールフォルダを確認してください。",
+                "active": true
+            },
+            {
+                "phrase": "Enter password for your Mobirise account",
+                "translate": "Mobiriseアカウントのパスワードを入力してください",
+                "active": true
+            },
+            {
+                "phrase": "Your password is sent to $email$ with first sign up. Check your email to find it.",
+                "translate": "あなたのパスワードは最初のサインアップで $email$ に送られます。それを見つけるためにあなたの電子メールをチェックしてください。",
+                "active": true
+            },
+            {
+                "phrase": "Change email",
+                "translate": "メールアドレスを変更",
+                "active": true
+            },
+            {
+                "phrase": "Please login to get latest updates and extensions",
+                "translate": "最新のアップデートや拡張機能を入手するにはログインしてください",
+                "active": true
+            },
+            {
+                "phrase": "Enter your email",
+                "translate": "メールアドレスを入力",
+                "active": true
+            },
+            {
+                "phrase": "Enter password",
+                "translate": "パスワードを入力する",
+                "active": true
+            },
+            {
+                "phrase": "Check your email. Your password is sent to $email$",
+                "translate": "あなたのメールをチェック。あなたのパスワードは $email$ に送信されます。",
+                "active": true
+            },
+            {
+                "phrase": "You already have the Mobirise account for $email$. Enter your password.",
+                "translate": "あなたはすでに $email$ のMobiriseアカウントを持っています。パスワードを入力してください。",
+                "active": true
+            },
+            {
+                "phrase": "Please login to load the free themes and extensions",
+                "translate": "無料のテーマと拡張機能をロードするためにログインしてください",
+                "active": true
+            },
+            {
+                "phrase": "Your account token has expired, please log in again",
+                "translate": "アカウントトークンの有効期限が切れています。もう一度ログインしてください",
+                "active": true
+            }
+        ],
+        "web/app/interface/extbridge.js": [
+            {
+                "phrase": "Images",
+                "translate": "画像",
+                "active": true
+            }
+        ],
+        "add-builder-ext": [
+            {
+                "phrase": "To remove all buttons from the block use %\"Block Parameters\" -> \"Show Buttons\"%",
+                "translate": "ブロックからすべてのボタンを削除するには、 %\"Block Parameters\" -> \"Show Buttons\"% を使用してください。",
+                "active": true
+            },
+            {
+                "phrase": "Insert icon",
+                "translate": "挿入アイコン",
+                "active": true
+            },
+            {
+                "phrase": "Font",
+                "translate": "フォント",
+                "active": true
+            },
+            {
+                "phrase": "Color",
+                "translate": "色",
+                "active": true
+            },
+            {
+                "phrase": "Add",
+                "translate": "追加する",
+                "active": true
+            },
+            {
+                "phrase": "Move Left",
+                "translate": "左に移動",
+                "active": true
+            },
+            {
+                "phrase": "Remove",
+                "translate": "削除する",
+                "active": true
+            },
+            {
+                "phrase": "Align",
+                "translate": "整列",
+                "active": true
+            },
+            {
+                "phrase": "Link",
+                "translate": "リンク",
+                "active": true
+            },
+            {
+                "phrase": "Edit Site Styles",
+                "translate": "サイトスタイルを編集する",
+                "active": true
+            },
+            {
+                "phrase": "Top of Page",
+                "translate": "ページトップへ",
+                "active": true
+            },
+            {
+                "phrase": "Bottom of Page",
+                "translate": "ページ下部",
+                "active": true
+            }
+        ],
+        "carousel": [
+            {
+                "phrase": "VIDEO SLIDE",
+                "translate": "ビデオスライド",
+                "active": true
+            },
+            {
+                "phrase": "Play Video",
+                "translate": "動画を再生します",
+                "active": true
+            },
+            {
+                "phrase": "Youtube or Vimeo",
+                "translate": "YouTubeやVimeo",
+                "active": true
+            },
+            {
+                "phrase": "Image",
+                "translate": "画像",
+                "active": true
+            },
+            {
+                "phrase": "Show Title",
+                "translate": "タイトルを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Text",
+                "translate": "テキストを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Buttons",
+                "translate": "ボタンを表示",
+                "active": true
+            },
+            {
+                "phrase": "Color",
+                "translate": "色",
+                "active": true
+            },
+            {
+                "phrase": "Opacity",
+                "translate": "不透明度",
+                "active": true
+            },
+            {
+                "phrase": "Content Align",
+                "translate": "フルスクリーンスライダー",
+                "active": true
+            },
+            {
+                "phrase": "FULL SCREEN SLIDER",
+                "translate": "フルスクリーンスライダー",
+                "active": true
+            },
+            {
+                "phrase": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "translate": "ジャンボトロン、ヒーローイメージ、視差スクロール、ビデオ背景、ハンバーガーメニュー、スティッキーヘッダーなど、最新の既成ブロックの中から選択できます。",
+                "active": true
+            },
+            {
+                "phrase": "FOR WINDOWS",
+                "translate": "ウィンドウズ",
+                "active": true
+            },
+            {
+                "phrase": "FOR MAC",
+                "translate": "MAC用",
+                "active": true
+            },
+            {
+                "phrase": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "translate": "YouTubeのビデオの背景と色のオーバーレイをスライドさせます。タイトルとテキストは左揃えです。",
+                "active": true
+            },
+            {
+                "phrase": "IMAGE SLIDE",
+                "translate": "画像スライド",
+                "active": true
+            },
+            {
+                "phrase": "Autoplay",
+                "translate": "自動再生",
+                "active": true
+            },
+            {
+                "phrase": "Autoplay Interval (ms)",
+                "translate": "自動再生間隔（ミリ秒）",
+                "active": true
+            },
+            {
+                "phrase": "Show Bullets",
+                "translate": "箇条書きを表示",
+                "active": true
+            },
+            {
+                "phrase": "Type Text",
+                "translate": "テキストを入力",
+                "active": true
+            }
+        ],
+        "gallery": [
+            {
+                "phrase": "Play Video",
+                "translate": "動画を再生します",
+                "active": true
+            },
+            {
+                "phrase": "Video URL",
+                "translate": "動画のURL",
+                "active": true
+            },
+            {
+                "phrase": "Image",
+                "translate": "画像",
+                "active": true
+            },
+            {
+                "phrase": "Tags",
+                "translate": "タグ一覧",
+                "active": true
+            },
+            {
+                "phrase": "Awesome image",
+                "translate": "素晴らしい画像",
+                "active": true
+            },
+            {
+                "phrase": "Awesome",
+                "translate": "驚くばかり",
+                "active": true
+            },
+            {
+                "phrase": "Responsive",
+                "translate": "レスポンシブ",
+                "active": true
+            },
+            {
+                "phrase": "Creative",
+                "translate": "クリエイティブ",
+                "active": true
+            },
+            {
+                "phrase": "Animated",
+                "translate": "アニメ化",
+                "active": true
+            },
+            {
+                "phrase": "Type caption here",
+                "translate": "キャプションをここに入力",
+                "active": true
+            },
+            {
+                "phrase": "Show Bullets",
+                "translate": "箇条書きを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Text",
+                "translate": "テキストを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Tags",
+                "translate": "タグを表示",
+                "active": true
+            },
+            {
+                "phrase": "Type Text",
+                "translate": "テキストを入力",
+                "active": true
+            }
+        ],
+        "map": [
+            {
+                "phrase": "350 5th Ave, New York, NY 10118",
+                "translate": "350 5th Ave、ニューヨーク、NY 10118",
+                "active": true
+            },
+            {
+                "phrase": "Address",
+                "translate": "アドレス",
+                "active": true
+            }
+        ],
+        "shop": [
+            {
+                "phrase": "Best Seller",
+                "translate": "ベスト・セラー",
+                "active": true
+            },
+            {
+                "phrase": "On Sale",
+                "translate": "発売中",
+                "active": true
+            },
+            {
+                "phrase": "Old Price",
+                "translate": "古い価格",
+                "active": true
+            },
+            {
+                "phrase": "Image",
+                "translate": "画像",
+                "active": true
+            },
+            {
+                "phrase": "Tags",
+                "translate": "タグ一覧",
+                "active": true
+            },
+            {
+                "phrase": "Awesome image",
+                "translate": "素晴らしい画像",
+                "active": true
+            },
+            {
+                "phrase": "Brown Glasses",
+                "translate": "茶色のメガネ",
+                "active": true
+            },
+            {
+                "phrase": "Men\\'s Shoes",
+                "translate": "メンズシューズ",
+                "active": true
+            },
+            {
+                "phrase": "Blue Backpack",
+                "translate": "ブルーバックパック",
+                "active": true
+            },
+            {
+                "phrase": "Red Snapback",
+                "translate": "レッドスナップバック",
+                "active": true
+            },
+            {
+                "phrase": "Black Glasses",
+                "translate": "黒いメガネ",
+                "active": true
+            },
+            {
+                "phrase": "Women\\'s Shoes",
+                "translate": "女性の靴",
+                "active": true
+            },
+            {
+                "phrase": "Pink Backpack",
+                "translate": "ピンクバックパック",
+                "active": true
+            },
+            {
+                "phrase": "Red Cap",
+                "translate": "赤い帽子",
+                "active": true
+            },
+            {
+                "phrase": "Awesome",
+                "translate": "驚くばかり",
+                "active": true
+            },
+            {
+                "phrase": "Wonderful",
+                "translate": "素晴らしい",
+                "active": true
+            },
+            {
+                "phrase": "Creative",
+                "translate": "クリエイティブ",
+                "active": true
+            },
+            {
+                "phrase": "Responsive",
+                "translate": "レスポンシブ",
+                "active": true
+            },
+            {
+                "phrase": "Animated",
+                "translate": "アニメ化",
+                "active": true
+            },
+            {
+                "phrase": "Casual shoes (contact us for sizing)",
+                "translate": "カジュアルシューズ（サイズ変更についてはお問い合わせください）",
+                "active": true
+            },
+            {
+                "phrase": "Lightweight textured fabric",
+                "translate": "軽量テクスチャード加工布",
+                "active": true
+            },
+            {
+                "phrase": "Rounded v-neckline",
+                "translate": "丸みを帯びたVネック",
+                "active": true
+            },
+            {
+                "phrase": "Pom pom trims",
+                "translate": "ポンポントリム",
+                "active": true
+            },
+            {
+                "phrase": "Regular fit – true to size",
+                "translate": "レギュラーフィット - サイズ通り",
+                "active": true
+            },
+            {
+                "phrase": "Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.",
+                "translate": "事務局の宿題の作者だけでなく、vulputateスカート。ストレスはメイクの多くを卒業し、谷、の温度を目標。",
+                "active": true
+            },
+            {
+                "phrase": "Product code:",
+                "translate": "プロダクト コード :",
+                "active": true
+            },
+            {
+                "phrase": "From:",
+                "translate": "から:",
+                "active": true
+            },
+            {
+                "phrase": "Buy now!",
+                "translate": "購入する",
+                "active": true
+            },
+            {
+                "phrase": "Type caption here",
+                "translate": "キャプションをここに入力",
+                "active": true
+            },
+            {
+                "phrase": "Show Sidebar",
+                "translate": "サイドバーを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Card Buttons",
+                "translate": "カードボタンを表示する",
+                "active": true
+            },
+            {
+                "phrase": "Show Sorting Buttons",
+                "translate": "並べ替えボタンを表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Best Sellers",
+                "translate": "ベストセラーを表示する",
+                "active": true
+            },
+            {
+                "phrase": "Show Price Range",
+                "translate": "価格帯を表示",
+                "active": true
+            },
+            {
+                "phrase": "Show Tags",
+                "translate": "タグを表示",
+                "active": true
+            },
+            {
+                "phrase": "Default sorting",
+                "translate": "デフォルトの並べ替え",
+                "active": true
+            },
+            {
+                "phrase": "Price: low to high",
+                "translate": "価格が安い順",
+                "active": true
+            },
+            {
+                "phrase": "Price: high to low",
+                "translate": "価格が高い順",
+                "active": true
+            },
+            {
+                "phrase": "Filter",
+                "translate": "フィルター",
+                "active": true
+            },
+            {
+                "phrase": "Show all",
+                "translate": "すべて表示する",
+                "active": true
+            },
+            {
+                "phrase": "Sale",
+                "translate": "販売",
+                "active": true
+            },
+            {
+                "phrase": "Type Title",
+                "translate": "タイトルを入力",
+                "active": true
+            },
+            {
+                "phrase": "Type Price",
+                "translate": "価格を入力",
+                "active": true
+            },
+            {
+                "phrase": "Type Caption",
+                "translate": "キャプションを入力",
+                "active": true
+            },
+            {
+                "phrase": "Type Text",
+                "translate": "テキストを入力",
+                "active": true
+            }
+        ],
+        "app-translate": [
+            {
+                "phrase": "Language",
+                "translate": "言語",
+                "active": true
+            },
+            {
+                "phrase": "Open",
+                "translate": "開く",
+                "active": true
+            },
+            {
+                "phrase": "You\\'re connected as:",
+                "translate": "あなたはとして接続されています：",
+                "active": true
+            },
+            {
+                "phrase": "Disconnect",
+                "translate": "切断",
+                "active": true
+            },
+            {
+                "phrase": "Add",
+                "translate": "追加",
+                "active": true
+            },
+            {
+                "phrase": "Change language",
+                "translate": "言語を変更",
+                "active": true
+            },
+            {
+                "phrase": "Don't show again?",
+                "translate": "次から表示しませんか?",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "Error setup language!",
+                "translate": "エラー : 言語セットアップに失敗しました",
+                "active": true
+            },
+            {
+                "phrase": "Change language?",
+                "translate": "言語を変更しますか?",
+                "active": true
+            },
+            {
+                "phrase": "Don't show again",
+                "translate": "次から表示しない",
+                "active": true
+            }
+        ],
+        "blocks": [
+            {
+                "phrase": "Menu",
+                "translate": "メニュー",
+                "active": true
+            },
+            {
+                "phrase": "Headers",
+                "translate": "ヘッダー",
+                "active": true
+            },
+            {
+                "phrase": "Images & Videos",
+                "translate": "画像とビデオ",
+                "active": true
+            },
+            {
+                "phrase": "Sliders & Galleries",
+                "translate": "スライダーとギャラリー",
+                "active": true
+            },
+            {
+                "phrase": "Article",
+                "translate": "記事",
+                "active": true
+            },
+            {
+                "phrase": "Features",
+                "translate": "特徴",
+                "active": true
+            },
+            {
+                "phrase": "Animated Features",
+                "translate": "アニメーション機能",
+                "active": true
+            },
+            {
+                "phrase": "Pricing Tables",
+                "translate": "価格表",
+                "active": true
+            },
+            {
+                "phrase": "Counters",
+                "translate": "カウンター",
+                "active": true
+            },
+            {
+                "phrase": "Countdowns",
+                "translate": "カウントダウン",
+                "active": true
+            },
+            {
+                "phrase": "Progress",
+                "translate": "進捗",
+                "active": true
+            },
+            {
+                "phrase": "Timelines",
+                "translate": "タイムライン",
+                "active": true
+            },
+            {
+                "phrase": "Accordions & Toggles & Tabs",
+                "translate": "アコーディオン＆トグル＆タブ",
+                "active": true
+            },
+            {
+                "phrase": "Info",
+                "translate": "情報",
+                "active": true
+            },
+            {
+                "phrase": "Forms",
+                "translate": "フォーム",
+                "active": true
+            },
+            {
+                "phrase": "Maps",
+                "translate": "地図",
+                "active": true
+            },
+            {
+                "phrase": "Social",
+                "translate": "ソーシャル",
+                "active": true
+            },
+            {
+                "phrase": "Testimonials",
+                "translate": "お客様の声",
+                "active": true
+            },
+            {
+                "phrase": "Clients",
+                "translate": "クライアント",
+                "active": true
+            },
+            {
+                "phrase": "Tables",
+                "translate": "テーブル",
+                "active": true
+            },
+            {
+                "phrase": "Footers",
+                "translate": "フッター",
+                "active": true
+            }
+        ],
+        "app-themes": [
+            {
+                "phrase": "This site uses the theme $theme title$ that isn't available.",
+                "translate": "このサイトでは利用できないテーマ $theme title$ を使用しています。",
+                "active": true
+            },
+            {
+                "phrase": "Cancel",
+                "translate": "キャンセル",
+                "active": true
+            },
+            {
+                "phrase": "Install $theme title$",
+                "translate": "$theme title$ をインストール",
+                "active": true
+            },
+            {
+                "phrase": "No themes available for loaded project",
+                "translate": "ロードされたプロジェクトに利用可能なテーマはありません",
+                "active": true
+            },
+            {
+                "phrase": "This site uses the theme $theme title$ that isn't available. If the theme is installed, then reinstall it please.",
+                "translate": "このサイトでは利用できないテーマ $theme title$ を使用しています。テーマがインストールされている場合は、再インストールしてください。",
+                "active": true
+            }
+        ],
+        "app-mobile-interface": [
+            {
+                "phrase": "Remove Block?",
+                "translate": "パーツを削除しますか?",
+                "active": true
+            },
+            {
+                "phrase": "Remove",
+                "translate": "削除",
+                "active": true
+            },
+            {
+                "phrase": "Remove Page",
+                "translate": "ページを削除",
+                "active": true
+            },
+            {
+                "phrase": "Remove page $page name$?",
+                "translate": "ページ $page name$ を削除しますか?",
+                "active": true
+            },
+            {
+                "phrase": "Remove Site",
+                "translate": "サイトを削除する",
+                "active": true
+            },
+            {
+                "phrase": "Edit Site Styles",
+                "translate": "サイトスタイルを編集する",
+                "active": true
+            }
+        ],
+        "app-plugin-form-editor": [
+            {
+                "phrase": "Form Fields",
+                "translate": "フォームフィールド",
+                "active": true
+            },
+            {
+                "phrase": "Form Options",
+                "translate": "フォームオプション",
+                "active": true
+            },
+            {
+                "phrase": "Notification Email or Action URL",
+                "translate": "通知メールまたはアクションURL",
+                "active": true
+            },
+            {
+                "phrase": "Please enter a valid email address or URL",
+                "translate": "有効なメールアドレスまたはURLを入力してください",
+                "active": true
+            },
+            {
+                "phrase": "Success Message",
+                "translate": "成功メッセージ",
+                "active": true
+            },
+            {
+                "phrase": "Form",
+                "translate": "フォーム",
+                "active": true
+            }
+        ],
+        "secondary-components": [
+            {
+                "phrase": "Block Parameters",
+                "translate": "パーツパラメーター",
+                "active": true
+            },
+            {
+                "phrase": "Type Text",
+                "translate": "タイプテキスト",
+                "active": true
+            },
+            {
+                "phrase": "Type Content",
+                "translate": "タイプ内容",
+                "active": true
+            }
+        ],
+        "web/app/interface/app-translate.js": [
+            {
+                "phrase": "Open",
+                "translate": "開く",
+                "active": true
+            },
+            {
+                "phrase": "You\\'re connected as:",
+                "translate": "あなたはとして接続されています :",
+                "active": true
+            },
+            {
+                "phrase": "Disconnect",
+                "translate": "切断",
+                "active": true
+            },
+            {
+                "phrase": "Add",
+                "translate": "追加",
+                "active": true
+            },
+            {
+                "phrase": "Change language?",
+                "translate": "言語を変更しますか?",
+                "active": true
+            },
+            {
+                "phrase": "Don't show again",
+                "translate": "次から表示しない",
+                "active": true
+            },
+            {
+                "phrase": "Ok",
+                "translate": "Ok",
+                "active": true
+            },
+            {
+                "phrase": "Error setup language!",
+                "translate": "セットアップ言語エラー",
+                "active": true
+            },
+            {
+                "phrase": "Language",
+                "translate": "言語",
+                "active": true
+            }
+        ],
+        "web/app/interface/app-plugin-mbrsite.js": [
+            {
+                "phrase": "Incorrect server response.",
+                "translate": "サーバーの応答が正しくありません。",
+                "active": true
+            },
+            {
+                "phrase": "Incorrect domain name.",
+                "translate": "ドメイン名が正しくありません。",
+                "active": true
+            },
+            {
+                "phrase": "File too large",
+                "translate": "ファイルが大きすぎます",
+                "active": true
+            },
+            {
+                "phrase": "Site Domain",
+                "translate": "サイトドメイン",
+                "active": true
+            },
+            {
+                "phrase": "Delete",
+                "translate": "削除",
+                "active": true
+            },
+            {
+                "phrase": "Do you want to delete the domain $domain$?",
+                "translate": "ドメイン $domain$ を削除しますか?",
+                "active": true
+            }
+        ]
+    }
+}
