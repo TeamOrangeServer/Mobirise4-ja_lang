@@ -6,4 +6,4 @@
 
 または、"sousuke","yupi"ブランチから入手することもできます。
 
-導入法はゆぴのブログ["毎日ゆぴさん"](https://akari.fiid.net/blog/index)を参考にどうぞ
+導入法はゆぴのブログ["毎日ゆぴさん"](https://akari.fiid.net/blog/top)を参考にどうぞ
